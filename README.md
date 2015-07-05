@@ -30,3 +30,7 @@ Klasa je pisana kao dodatak Bootstrap framework-a, za potrebe aktivne provjere u
 > # *Broje se samo rezultati!*
 > Dušan Perišić
 > [dusanperisic.com](https://dusanperisic.com) 
+
+# [Demo](https://test.najsmestaj.com) 
+
+> Demo se može pogledati na svim kontakt formama, kao i na formi za rezervaciju.
